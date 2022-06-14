@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @farizramadhani
 - 🌱 I’m currently learning iOS development
-- 📫 How to reach me https://www.linkedin.com/in/farizramadhani/
 
 <!---
 farizramadhani/farizramadhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
